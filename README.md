@@ -2,12 +2,12 @@
 
 <h1> Bir Web Sitesi Çalışması</h1>
 
-<h3>Bu projede JavaScript kullanılarak bir harcama hesap programı yapılmıştır.</h3>
+<p>Bu projede JavaScript kullanılarak bir harcama hesap programı yapılmıştır.</p>
 
 ***
 
 
-projeye burdan bakabilirsiniz => <a href="https://hamits.github.io/expense-list/"> **Harcama Programı**   
+projeye buradan bakabilirsiniz => <a href="https://hamits.github.io/expense-list/"> **Harcama Programı**   
 
 
 ***
