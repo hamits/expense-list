@@ -7,7 +7,7 @@
 ***
 
 
-projeyi <a href="https://hamits.github.io/expense-list/">**_buradan_   deneyebilirsiniz.
+projeye burdan bakabilirsiniz => <a href="https://hamits.github.io/expense-list/"> **Harcama Programı**   
 
 
 ***
