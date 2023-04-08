@@ -7,7 +7,7 @@
 ***
 
 
-projeyi <a href="https://hamits.github.io/expense-list/">**_buradan_**   deneyebilirsiniz.
+projeyi <a href="https://hamits.github.io/expense-list/">**_buradan_**   <p>deneyebilirsiniz.</p>
 
 
 ***
